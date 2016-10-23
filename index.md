@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: Alexseik software developer page
 ---
 <div class="blurb">
 	<h1>Hi there, I'm Hank Quinlan!</h1>

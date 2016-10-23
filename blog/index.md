@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Alexseik's Blog
 permalink: /blog/
 ---

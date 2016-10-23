@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Hank Quinlan's Blog
+title: Alexseik's Blog
+permalink: /blog/
 ---
 <h1>{{ page.title }}</h1>
 <ul class="posts">

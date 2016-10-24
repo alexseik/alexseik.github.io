@@ -11,14 +11,17 @@ Este post va dedicado a plasmar en la red las notas que tomé durante aquellos d
 
 # [Polymer: How We Got Here and Where We're Going](https://www.youtube.com/watch?v=VBbejeKHrjg&feature=youtu.be&list=PLNYkxOF6rcICc687SxHQRuo9TVNOJelSZ){:target="_blank" __}
 Esta maravillosa charla fue dada por [Taylor Savage](https://twitter.com/taylorthesavage){:target="_blank" __}. La charla bien se podría titular en español **El estado de Polymer y los web components**. El link del título no corresponde con la charla dada en Madrid ya que esta aún no está disponible en la página del [PolymerDay](https://www.polymerday.com/home/){:target="_blank" __}. Los puntos a destacar a mi modo de ver fueron los siguientes:
+
 * **#UseThePlatform** - Utilizar la plataforma WEB (el estándar) lo máximo posible.
-    * Dejar al browser hacer el trabajo más pesado.
-    * Se selectivo con la abstracción al realizar componentes web.
-    * Aprovechar las ventajas que ofrece el estándar.
+  * Dejar al browser hacer el trabajo más pesado.
+  * Se selectivo con la abstracción al realizar componentes web.
+  * Aprovechar las ventajas que ofrece el estándar.
+
 * **Web components** - Explicó por encima el paradigma de los componentes web
     * Los Web Components sirven para extender el lenguaje HTML estándar. Sirve para crear nuevas etiquetas HTML.
     * La especificación del estándar está descrito desde el 22 de mayo de 2012. Esta versión es la v0.
     * Hay una nueva versión v1 que se supone ofrecerá compatibilidad para la mayoría de navegadores.
+
 * **Historia** - Dio un repaso a las diferentes versiones que han habido de Polymer e indicó las empresas que acutalmente están utilizando *Polymer* en proyectos de producción.
 * **Introducción a Polymer 2.0** - Indicó que la nueva versión va dar soporte a la especificación v1 de los componentes web. Que esto permite un mejor interoperatibilidad con otros frameworks y librerías. Que intenta impedir que las cosas ya realizadas y existentes se rompan (demasiado...). Y por último que va dar soporte a la *Web native*, el uso de la plataforma para que nuestros componentes web corran mejor y más rápido.
 * **Herramientas** - Explicó las herramientas actuales que nos permiten mejorar nuestro desarrollo de componentes web. Hizo un repaso a las *Polymer Tools*

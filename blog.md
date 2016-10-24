@@ -3,6 +3,7 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
+# Relación de post escritos en mi blog ...
 
 <ul class="posts">
   {% for post in site.posts %}

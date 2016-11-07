@@ -14,7 +14,7 @@ Esta maravillosa charla fue dada por [Taylor Savage](https://twitter.com/taylort
 
 * **#UseThePlatform** - Utilizar la plataforma WEB (el estándar) lo máximo posible.
   * Dejar al browser hacer el trabajo más pesado.
-  * Se selectivo con la abstracción al realizar componentes web.
+  * Se selectivo con la abstracción al realizar componentes web. Cuanto más abstracción, más código intermedio ha de ejecutarse y por tanto más riesgo de hacer que el sistema vaya lento.
   * Aprovechar las ventajas que ofrece el estándar.
 
 * **Web components** - Explicó por encima el paradigma de los componentes web
@@ -22,7 +22,7 @@ Esta maravillosa charla fue dada por [Taylor Savage](https://twitter.com/taylort
     * La especificación del estándar está descrito desde el 22 de mayo de 2012. Esta versión es la v0.
     * Hay una nueva versión v1 que se supone ofrecerá compatibilidad para la mayoría de navegadores.
 
-* **Historia** - Dio un repaso a las diferentes versiones que han habido de Polymer e indicó las empresas que acutalmente están utilizando *Polymer* en proyectos de producción.
+* **Historia** - Dio un repaso a las diferentes versiones que han habido de Polymer e indicó las empresas que actualmente están utilizando *Polymer* en proyectos de producción.
 * **Introducción a Polymer 2.0** - Indicó que la nueva versión va dar soporte a la especificación v1 de los componentes web. Que esto permite un mejor interoperatibilidad con otros frameworks y librerías. Que intenta impedir que las cosas ya realizadas y existentes se rompan (demasiado...). Y por último que va dar soporte a la *Web native*, el uso de la plataforma para que nuestros componentes web corran mejor y más rápido.
 * **Herramientas** - Explicó las herramientas actuales que nos permiten mejorar nuestro desarrollo de componentes web. Hizo un repaso a las *Polymer Tools*
     * *Analyzer* - Permite ver el grafo de dependencias de nuestros componentes, incluyendo JS, imágenes, CSS, etc...

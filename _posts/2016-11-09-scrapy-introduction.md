@@ -2,7 +2,7 @@
 layout: post
 title:  Introducción a web scrapper con python e Instalación de Scrapy
 date:   2016-11-09 12:28:00 +0200
-categories: python
+categories: Python
 ---
 
 # Scrapper sobre el congreso de los diputados

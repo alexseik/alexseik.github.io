@@ -2,7 +2,7 @@
 layout: post
 title:  Introducción a Vagrant
 date:   2016-11-12 12:28:00 +0200
-categories: vagrant
+categories: Vagrant
 ---
 
 # Introducción a Vagrant

@@ -2,7 +2,7 @@
 layout: post
 title:  Resumen del Polymerday en Madrid
 date:   2016-10-24 12:28:00 +0200
-categories: polymer
+categories: Polymer
 ---
 
 El pasado fin de semana tuve la oportunidad de asistir al evento [PolymerDay](https://www.polymerday.com/home/){:target="_blank" __} que tuvo lugar en Madrid. Sobra decir que fué una gran oportunidad que me permitió profundizar más en mi conocimiento sobre esta maravillosa librería y las nuevas tendencias que se dan dentro del desarrollo WEB orientado a componentes. También me permitió conocer a mucha gente muy interesante que ya está haciendo cosillas con esta librería.

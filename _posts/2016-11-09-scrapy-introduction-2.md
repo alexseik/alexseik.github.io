@@ -2,7 +2,7 @@
 layout: post
 title:  Introducción a scrapy - UR2IM y proyecto scrapy
 date:   2016-11-09 18:28:00 +0200
-categories: python, Scrapy
+categories: Python
 ---
 Este blog quiere servir como referencia rápida de scrapy 1.2.
 

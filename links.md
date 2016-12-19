@@ -25,6 +25,8 @@ programar en python. OJO, las dependencias hay que instalarlas globalmente, no e
 
 ## Javascript
 * [Angular starterkit with webpack2](https://github.com/AngularClass/angular2-webpack-starter)
+* [Angular2 book](https://angular-2-training-book.rangle.io/)
+* [Angular2 UI resources](/javascript/2016/12/08/ui-with-angular2.html)
 
 ## Node
 * [Node module patterns](https://darrenderidder.github.io/talks/ModulePatterns)

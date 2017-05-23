@@ -30,3 +30,6 @@ programar en python. OJO, las dependencias hay que instalarlas globalmente, no e
 
 ## Node
 * [Node module patterns](https://darrenderidder.github.io/talks/ModulePatterns)
+
+## Devops
+* [Angular2 + docker + nginx](https://marcofranssen.nl/run-your-angular-app-in-a-nginx-docker-container/)
